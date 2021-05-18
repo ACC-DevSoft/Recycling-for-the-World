@@ -1,0 +1,17 @@
+/* Paleta de colores */
+@import url("https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&family=Bentham&display=swap");
+/* Variables de los colores */
+:root{
+    --dark: #393232;
+    --light:#f2edd7;
+    --green:#3a6351;
+    --orange-light:#e48257;
+}
+
+/* variables de los textos  */
+.titulos{
+   font-family: 'Baloo Tamma 2', cursive;
+}
+.texto{
+    font-family: 'Bentham', serif;
+}
