@@ -10,8 +10,11 @@
 
 /* variables de los textos  */
 .titulos{
+    color:var(--orange-light) ;
+    font-size: large;
    font-family: 'Baloo Tamma 2', cursive;
 }
-.texto{
+.textos{
+    color: var(--dark);
     font-family: 'Bentham', serif;
 }
