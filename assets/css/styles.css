@@ -5,11 +5,23 @@
 }
 
 body {
-    background-color: #3a6351;
+    background-color: #EBEBEB;
     color: #f2edd7 ;
 }
 
 h1,h2, h3 {
-   color: #e48257; 
-   font-weight: bold;
+    color: #e48257; 
+    font-weight: bold;
 }
+
+.list{
+    margin: 100px 30px;
+    color: black;
+}
+
+.list img{
+    width:100px;
+    height:100px;
+    border-radius:150px;
+}
+
