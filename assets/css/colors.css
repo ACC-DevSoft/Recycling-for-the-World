@@ -7,12 +7,21 @@
     --light:#f2edd7;
     --green:#3a6351;
     --orange-light:#e48257;
+
+    --gray-light:#EBEBEB;
+    --white:#FFFFFF;
+    --border: #9c9c9c;
+
 }
 
 /* variables de los textos  */
 .titulos{
    font-family: 'Baloo Tamma 2', cursive;
+   color:var(--white);
+   font-size: 50px;
+   font-weight: bold;
 }
 .texto{
     font-family: 'Bentham', serif;
+    color: var(--dark);
 }

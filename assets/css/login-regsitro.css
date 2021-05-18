@@ -1,0 +1,95 @@
+@import url(./colors.css);
+
+*{
+    top: 0;
+    margin: 0;
+    box-sizing: border-box;
+    outline: none;
+}
+.wrap-container{
+    width: 100%;
+    height: 100vh;
+    background-image: url(../img/11-datos-rapidos-acerca-del-reciclaje-3.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.header{
+    background-color: rgba(46, 46, 46, 0.4);
+    padding: 25px;
+    width: 100%;
+    height: 100vh;
+}   
+.row{
+    width: 98%;
+    margin: auto;
+}
+.banner{
+    background-color:transparent;
+    margin-top: 20px;
+}
+.banner h1{
+    font-size: 110px;
+    line-height: 90px;
+    justify-content: center;
+    text-transform: uppercase;
+    margin: 120px 25px;
+    letter-spacing: 3px;
+}
+
+.content-login{
+    margin-top: 20px;
+    background-color: var(--white);
+    border: 1px solid var(--border);
+}
+.content-login .panel{
+    margin: auto auto;
+    width: 96%;
+}
+.content-login .panel .panel-header{
+    text-align: center;
+    width: 100%;
+    padding: 20px;
+    color: var(--dark);
+    font-weight: bold;
+}
+.panel .panel-header h3{
+    color: #707070;
+    font-size: 50px;
+    font-weight: bold;
+    letter-spacing: -1px;
+}
+.content-login .panel .panel-body{
+    min-height: 400px;
+    width: 100%;
+    color: #707070;
+    /* color: var(--dark); */
+    margin-bottom: 25px;
+    outline: none;
+}
+
+
+.panel-body .form-group{
+    margin-bottom: 30px;
+}
+.form-group label{
+    /* display: inline-block; */
+    font-weight: 500;
+    margin-bottom: .2rem;
+    font-size:large;
+}
+
+.group-buttons{
+    margin-top: 40px;
+    width: 100%;
+    height: 20px;
+    display: block;
+    justify-content: space-between;
+    background-color: yellow;
+}
+.group-buttons .btn{
+    font-weight: bold;
+    margin-bottom: 10px;
+}
+
+/* fin de login  */
+
