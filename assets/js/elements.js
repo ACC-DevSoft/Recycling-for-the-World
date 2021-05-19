@@ -27,6 +27,6 @@ let card = () => {
     )
 }
 
-for (x=0;x<10;x++) {
+for (x=0;x<random(1,20);x++) {
     card()
 }
