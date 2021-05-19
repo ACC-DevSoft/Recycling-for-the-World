@@ -1,4 +1,15 @@
+@import url(./colors.css);
 *{
     top: 0;
     margin: 0;
+}
+
+body {
+    background-color: #3a6351;
+    color: #f2edd7 ;
+}
+
+h1,h2, h3 {
+   color: #e48257; 
+   font-weight: bold;
 }
