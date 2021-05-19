@@ -2,6 +2,12 @@
 *{
     top: 0;
     margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body {
+    background-color: var(--white);
+    color:var(--dark);
 }
 
 body {
@@ -13,6 +19,17 @@ h1,h2, h3 {
     color: #e48257; 
     font-weight: bold;
 }
+.containerEst {
+    padding: 0px;
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    height: 100%;
+}
+
+
+
+
+
 
 .navbar {
     background-color: var(--dark);

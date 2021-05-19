@@ -1,4 +1,5 @@
 /* Paleta de colores */
+
 @import url("https://fonts.googleapis.com/css2?family=Baloo+Tamma+2&family=Bentham&display=swap");
 /* Variables de los colores */
 :root{
@@ -6,12 +7,31 @@
     --light:#f2edd7;
     --green:#3a6351;
     --orange-light:#e48257;
+<<<<<<< HEAD
+
+    --gray-light:#EBEBEB;
+    --white:#FFFFFF;
+    --border: #9c9c9c;
+
+<<<<<<< HEAD
+=======
+    --gray-light: #EBEBEB;
+>>>>>>> d91ddf1870e4717b2dd281885572aa6d7d4b8043
+=======
+    
+    --bs-indigo: #6610f2;
+
+>>>>>>> login-registro
 }
 
 /* variables de los textos  */
 .titulos{
    font-family: 'Baloo Tamma 2', cursive;
+   color:var(--white);
+   font-size: 50px;
+   font-weight: bold;
 }
 .texto{
     font-family: 'Bentham', serif;
+    color: var(--dark);
 }
