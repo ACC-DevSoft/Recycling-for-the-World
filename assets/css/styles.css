@@ -18,6 +18,9 @@ h1,h2, h3 {
 
 
 
+
+
+
 .navbar {
     background-color: var(--dark);
 }
@@ -37,8 +40,4 @@ h1,h2, h3 {
 }
 .dropdown .dropdown-menu .dropdown-item {
     color: var(--green);
-
 }
-
-
-
