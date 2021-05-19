@@ -4,12 +4,22 @@
     margin: 0;
 }
 
-body {
-    background-color: #3a6351;
-    color: #f2edd7 ;
-}
 
 h1,h2, h3 {
    color: #e48257; 
    font-weight: bold;
+}
+
+.navbar {
+    background-color: var(--dark);
+}
+.navbar a {
+    color: var(--light);
+}
+.navbar a:hover {
+    color: var(--orange-light);
+}
+
+.dropdown .dropdown-menu .dropdown-item {
+    color: var(--green);
 }
