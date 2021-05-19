@@ -13,6 +13,11 @@ h1{
     color:rgb(80, 91, 102);
 }
 
+.search{
+    margin: 20px 30px;
+    color: black;
+}
+
 .list{
     margin: 20px 30px;
     color: black;
@@ -36,4 +41,9 @@ h1{
 .card:hover{
     transform: scale(1.05);
     box-shadow: 0 10px 20px rgba(0,0,0,.12), 0 4px 8px rgba(0,0,0,.06);
+}
+
+footer{
+    background-color: var(--dark);
+    text-align: center;
 }
