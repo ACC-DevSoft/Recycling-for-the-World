@@ -13,9 +13,15 @@
     --white:#FFFFFF;
     --border: #9c9c9c;
 
+<<<<<<< HEAD
 =======
     --gray-light: #EBEBEB;
 >>>>>>> d91ddf1870e4717b2dd281885572aa6d7d4b8043
+=======
+    
+    --bs-indigo: #6610f2;
+
+>>>>>>> login-registro
 }
 
 /* variables de los textos  */
