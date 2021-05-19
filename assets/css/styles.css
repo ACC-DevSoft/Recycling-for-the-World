@@ -30,6 +30,13 @@ h1,h2, h3 {
     color: var(--orange-light);
 }
 
+.navbar-toggler{
+   color: var(--light);
+}
+
+.navbar-toggler .navbar-toggler-icon {
+    background-image: url(../img/menu.svg) !important;
+}
 .dropdown .dropdown-menu .dropdown-item {
     color: var(--green);
 }
