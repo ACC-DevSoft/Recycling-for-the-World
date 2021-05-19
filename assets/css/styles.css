@@ -5,29 +5,18 @@
     padding: 0;
     box-sizing: border-box;
 }
-
-<<<<<<< HEAD
 body {
-<<<<<<< HEAD
     background-color: var(--white);
     color:var(--dark);
 }
-<<<<<<< HEAD
-=======
-    background-color: #EBEBEB;
-    color: #f2edd7 ;
-}
+
 
 h1,h2, h3 {
     color: #e48257; 
     font-weight: bold;
-=======
-
-h1,h2, h3 {
-   color: #e48257; 
-   font-weight: bold;
->>>>>>> perfiles
 }
+
+
 
 .navbar {
     background-color: var(--dark);
@@ -48,12 +37,8 @@ h1,h2, h3 {
 }
 .dropdown .dropdown-menu .dropdown-item {
     color: var(--green);
-<<<<<<< HEAD
-}
-=======
-}
->>>>>>> perfiles
->>>>>>> d91ddf1870e4717b2dd281885572aa6d7d4b8043
-=======
 
->>>>>>> login-registro
+}
+
+
+
