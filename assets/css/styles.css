@@ -16,3 +16,17 @@ h1,h2, h3 {
 .containerEst {
     padding: 0px;
 }
+
+.navbar {
+    background-color: var(--dark);
+}
+.navbar a {
+    color: var(--light);
+}
+.navbar a:hover {
+    color: var(--orange-light);
+}
+
+.dropdown .dropdown-menu .dropdown-item {
+    color: var(--green);
+}
