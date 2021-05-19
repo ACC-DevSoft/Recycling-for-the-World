@@ -4,21 +4,10 @@
     margin: 0;
 }
 
-<<<<<<< HEAD
-body {
-    background-color: #EBEBEB;
-    color: #f2edd7 ;
-}
-
-h1,h2, h3 {
-    color: #e48257; 
-    font-weight: bold;
-=======
 
 h1,h2, h3 {
    color: #e48257; 
    font-weight: bold;
->>>>>>> perfiles
 }
 
 .navbar {
@@ -40,8 +29,4 @@ h1,h2, h3 {
 }
 .dropdown .dropdown-menu .dropdown-item {
     color: var(--green);
-<<<<<<< HEAD
 }
-=======
-}
->>>>>>> perfiles
