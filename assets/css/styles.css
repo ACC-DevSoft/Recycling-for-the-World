@@ -5,11 +5,14 @@
 }
 
 body {
-    background-color: #3a6351;
+    background-color: #EBEBEB;
     color: #f2edd7 ;
 }
 
 h1,h2, h3 {
-   color: #e48257; 
+   color: rgb(102, 101, 101); 
    font-weight: bold;
+}
+.containerEst {
+    padding: 0px;
 }
