@@ -14,14 +14,23 @@ h1,h2, h3 {
     font-weight: bold;
 }
 
-.list{
-    margin: 100px 30px;
-    color: black;
+.navbar {
+    background-color: var(--dark);
+}
+.navbar a {
+    color: var(--light);
+}
+.navbar a:hover {
+    color: var(--orange-light);
 }
 
-.list img{
-    width:100px;
-    height:100px;
-    border-radius:150px;
+.navbar-toggler{
+   color: var(--light);
 }
 
+.navbar-toggler .navbar-toggler-icon {
+    background-image: url(../img/menu.svg) !important;
+}
+.dropdown .dropdown-menu .dropdown-item {
+    color: var(--green);
+}
