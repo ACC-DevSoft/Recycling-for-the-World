@@ -15,6 +15,9 @@ h1,h2, h3 {
 }
 .containerEst {
     padding: 0px;
+    background-image: url(../img/banner.jpg);
+    background-size: cover;
+    height: 100%;
 }
 
 .navbar {
