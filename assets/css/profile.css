@@ -1,3 +1,5 @@
+@import url(./colors.css);
+
 .main-profile {
-    background-color: var(--gray-light);
+    background-color: var(--green);
 }
