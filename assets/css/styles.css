@@ -15,10 +15,10 @@ body {
     color: #f2edd7 ;
 }
 
-h1,h2, h3 {
+/* h1,h2, h3 {
     color: #e48257; 
     font-weight: bold;
-}
+} */
 .containerEst {
     padding: 0px;
     background-image: url(../img/banner.jpg);
